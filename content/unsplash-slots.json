@@ -1,0 +1,15 @@
+[
+  { "slot": "section-hero", "keyword": "modern bright dental clinic reception interior", "industry": "dental-clinic", "orientation": "landscape", "w": 1920, "h": 1280 },
+  { "slot": "section-about", "keyword": "friendly dentist smiling with patient", "industry": "dental-clinic", "orientation": "landscape", "w": 1600, "h": 1200 },
+  { "slot": "section-cta", "keyword": "happy family healthy smiles", "industry": "dental-clinic", "orientation": "landscape", "w": 1920, "h": 1080 },
+  { "slot": "service-general-dentistry", "keyword": "dental checkup examination modern chair", "industry": "dental-clinic", "orientation": "landscape", "w": 1200, "h": 900 },
+  { "slot": "service-teeth-whitening", "keyword": "bright white teeth smile close up", "industry": "dental-clinic", "orientation": "landscape", "w": 1200, "h": 900 },
+  { "slot": "service-invisalign", "keyword": "clear aligner invisible braces dental", "industry": "dental-clinic", "orientation": "landscape", "w": 1200, "h": 900 },
+  { "slot": "service-dental-implants", "keyword": "dental implant model tooth restoration", "industry": "dental-clinic", "orientation": "landscape", "w": 1200, "h": 900 },
+  { "slot": "service-kids-dentistry", "keyword": "child smiling dentist pediatric care", "industry": "dental-clinic", "orientation": "landscape", "w": 1200, "h": 900 },
+  { "slot": "page-services-hero", "keyword": "modern dental treatment room equipment", "industry": "dental-clinic", "orientation": "landscape", "w": 1920, "h": 1080 },
+  { "slot": "page-about-hero", "keyword": "dental team professional portrait clinic", "industry": "dental-clinic", "orientation": "landscape", "w": 1920, "h": 1080 },
+  { "slot": "page-work-hero", "keyword": "smile transformation before after dental", "industry": "dental-clinic", "orientation": "landscape", "w": 1920, "h": 1080 },
+  { "slot": "page-contact-hero", "keyword": "dental clinic front desk welcoming Austin", "industry": "dental-clinic", "orientation": "landscape", "w": 1920, "h": 1080 },
+  { "slot": "section-og", "keyword": "modern dental clinic bright smile", "industry": "dental-clinic", "orientation": "landscape", "w": 1200, "h": 630 }
+]

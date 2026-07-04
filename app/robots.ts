@@ -1,0 +1,15 @@
+import type { MetadataRoute } from "next";
+import { siteConfig } from "@/content/site-config";
+
+export default function robots(): MetadataRoute.Robots {
+  const base = siteConfig.seo.siteUrl.replace(/\/$/, "");
+  return {
+    rules: {
+      userAgent: "*",
+      allow: "/",
+      disallow: [...siteConfig.seo.noindexPaths],
+    },
+    sitemap: `${base}/sitemap.xml`,
+    host: base,
+  };
+}

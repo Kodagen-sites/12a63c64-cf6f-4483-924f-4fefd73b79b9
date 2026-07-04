@@ -1,0 +1,21 @@
+{
+  "bucket": "site-assets",
+  "projectId": "12a63c64-cf6f-4483-924f-4fefd73b79b9",
+  "ref": "",
+  "images": {
+    "service-teeth-whitening": "https://images.unsplash.com/photo-1661438818937-437f1aeaf08e?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw1fHxicmlnaHQlMjB3aGl0ZSUyMHRlZXRoJTIwc21pbGUlMjBjbG9zZSUyMHVwfGVufDF8MHx8fDE3ODMxNDEwNDd8MA&ixlib=rb-4.1.0&w=1200&h=900&fit=crop&q=80&auto=format",
+    "section-cta": "https://images.unsplash.com/photo-1758687125973-ec9932a4245b?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw3fHxoYXBweSUyMGZhbWlseSUyMGhlYWx0aHklMjBzbWlsZXN8ZW58MXwwfHx8MTc4MzE0MTA0N3ww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-general-dentistry": "https://images.unsplash.com/photo-1598256989800-fe5f95da9787?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwyfHxkZW50YWwlMjBjaGVja3VwJTIwZXhhbWluYXRpb24lMjBtb2Rlcm4lMjBjaGFpcnxlbnwxfDB8fHwxNzgzMTQxMDQ4fDA&ixlib=rb-4.1.0&w=1200&h=900&fit=crop&q=80&auto=format",
+    "section-about": "https://images.unsplash.com/photo-1685022036567-0b91b29276e1?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw2fHxmcmllbmRseSUyMGRlbnRpc3QlMjBzbWlsaW5nJTIwd2l0aCUyMHBhdGllbnR8ZW58MXwwfHx8MTc4MzE0MTA0OHww&ixlib=rb-4.1.0&w=1600&h=1200&fit=crop&q=80&auto=format",
+    "section-hero": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBicmlnaHQlMjBkZW50YWwlMjBjbGluaWMlMjByZWNlcHRpb24lMjBpbnRlcmlvcnxlbnwxfDB8fHwxNzgzMTQxMDQ4fDA&ixlib=rb-4.1.0&w=1920&h=1280&fit=crop&q=80&auto=format",
+    "service-invisalign": "https://images.unsplash.com/photo-1609840113929-b130355987e1?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwxfHxjbGVhciUyMGFsaWduZXIlMjBpbnZpc2libGUlMjBicmFjZXMlMjBkZW50YWx8ZW58MXwwfHx8MTc4MzE0MTA0OHww&ixlib=rb-4.1.0&w=1200&h=900&fit=crop&q=80&auto=format",
+    "page-about-hero": "https://images.unsplash.com/photo-1758205308181-d52b41e00cef?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw3fHxkZW50YWwlMjB0ZWFtJTIwcHJvZmVzc2lvbmFsJTIwcG9ydHJhaXQlMjBjbGluaWN8ZW58MXwwfHx8MTc4MzE0MTA0OXww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-dental-implants": "https://images.unsplash.com/photo-1525893277997-207c04d47d65?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw0fHxkZW50YWwlMjBpbXBsYW50JTIwbW9kZWwlMjB0b290aCUyMHJlc3RvcmF0aW9ufGVufDF8MHx8fDE3ODMxNDEwNDl8MA&ixlib=rb-4.1.0&w=1200&h=900&fit=crop&q=80&auto=format",
+    "section-og": "https://images.unsplash.com/photo-1758600587815-b654d1405e83?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjBkZW50YWwlMjBjbGluaWMlMjBicmlnaHQlMjBzbWlsZXxlbnwxfDB8fHwxNzgzMTQxMDQ5fDA&ixlib=rb-4.1.0&w=1200&h=630&fit=crop&q=80&auto=format",
+    "page-contact-hero": "https://images.unsplash.com/photo-1630438994394-3deff7a591bf?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwxfHxkZW50YWwlMjBjbGluaWMlMjBmcm9udCUyMGRlc2slMjB3ZWxjb21pbmclMjBBdXN0aW58ZW58MXwwfHx8MTc4MzE0MTA0OXww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "page-work-hero": "https://images.unsplash.com/photo-1675526607070-f5cbd71dde92?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwxfHxzbWlsZSUyMHRyYW5zZm9ybWF0aW9uJTIwYmVmb3JlJTIwYWZ0ZXIlMjBkZW50YWx8ZW58MXwwfHx8MTc4MzE0MTA1MHww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format"
+  },
+  "videos": {},
+  "frames": {},
+  "updatedAt": "2026-07-04T04:57:30.214Z"
+}
